@@ -19,16 +19,16 @@ export const projects = [
     visit: "https://github.com/ZaynMuhammad/LocalLibraryApp",
     id: 1,
   },
-  // {
-  //   title: "WebRTC App",
-  //   description:
-  //     "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-  //   image: "/images/3.jpg",
-  //   tags: ["React", "WebRTC"],
-  //   source: "https://google.com",
-  //   visit: "https://google.com",
-  //   id: 2,
-  // },
+  {
+    title: "Insure Landing Page",
+    description:
+      "This is a landing page coded with HTML, SCSS, CSS GRID and Javascript. The goal of the project was to re-create an image design of the webpage using SCSS and mobile first design principles.",
+    image: "/images/3.png",
+    tags: ["HTML", "CSS/SCSS", "Gulp", "Javascript"],
+    source: "https://zaynmuhammad.github.io/insure_landing_page/",
+    visit: "https://github.com/ZaynMuhammad/insure_landing_page",
+    id: 2,
+  },
   // {
   //   title: "Unichat",
   //   description:
