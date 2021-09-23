@@ -18,7 +18,8 @@ const Hero = () => (
       <SectionText>
         I am a recent Computer Science graduate looking to use my skills to
         apply my skills to build fast and responsive web applications. I can
-        build both in the front-end and the back-end.
+        build both in the front-end and the back-end. Website built using
+        ReactJS and styled components.
       </SectionText>
       <Button
         onClick={() =>
