@@ -29,16 +29,16 @@ export const projects = [
     visit: "https://github.com/ZaynMuhammad/insure_landing_page",
     id: 2,
   },
-  // {
-  //   title: "Unichat",
-  //   description:
-  //     "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-  //   image: "/images/4.jpg",
-  //   tags: ["React", "ChatEngine", "Firebase"],
-  //   source: "https://google.com",
-  //   visit: "https://google.com",
-  //   id: 3,
-  // },
+  {
+    title: "Chat App",
+    description:
+      "This project uses Typescript, ReactJS, CSS and Socket.IO. The goal of the project was to try out Socket.IO and practice using some Typescript with React.",
+    image: "/images/4.png",
+    tags: ["Typescript", "CSS", "ReactJS", "Socket.IO"],
+    source: "https://chat-app-zayn.netlify.app",
+    visit: "https://github.com/ZaynMuhammad/chat-app-client",
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
