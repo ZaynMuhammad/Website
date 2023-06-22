@@ -5,6 +5,13 @@ export const Img = styled.img`
   height:100%;
   object-fit: cover;
   overflow: hidden;
+  margin-bottom: 50px;
+  @media ${(props) => props.theme.breakpoints.sm} {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    padding-bottom: 0;
+}
 `
 
 export const GridContainer = styled.section`
@@ -29,6 +36,7 @@ export const BlogCard = styled.div`
   width: 400px;
   @media ${(props) => props.theme.breakpoints.sm} {
     width: 100%;
+    padding: 1rem;
   }
 `;
 export const TitleContent = styled.div`
