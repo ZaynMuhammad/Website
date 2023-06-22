@@ -30,10 +30,10 @@ const Footer = () => {
           <Slogan>Innovating one project at a time</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href='https://github.com'>
+          <SocialIcons href='https://github.com/zaynmuhammad'>
             <AiFillGithub size='3rem' />
           </SocialIcons>
-          <SocialIcons href='https://linkedin.com'>
+          <SocialIcons href='www.linkedin.com/in/zayn-muhammad'>
             <AiFillLinkedin size='3rem' />
           </SocialIcons>
         </SocialContainer>
