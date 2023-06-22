@@ -15,7 +15,7 @@ export const projects = [
       "A library application using MongoDB for the database, and accessing it with mongoose. NodeJS and Express was used on the backend.",
     image: "/images/2.png",
     tags: ["NodeJS", "Mongoose", "MongoDB", "ExpressJS"],
-    source: "https://local-library-zayn.herokuapp.com/catalog",
+    source: "https://locallibraryapp-production.up.railway.app/catalog",
     visit: "https://github.com/ZaynMuhammad/LocalLibraryApp",
     id: 1,
   },
@@ -32,10 +32,10 @@ export const projects = [
   {
     title: "Chat App",
     description:
-      "This project uses Typescript, ReactJS, CSS and Socket.IO. The goal of the project was to try out Socket.IO and practice using some Typescript with React. To try out this app, make sure to join the same room on two seperate tabs or on seperate computers.",
+      "Join the same room in two seperate tabs to chat with others. This project uses Typescript, ReactJS, CSS and Socket.IO. The goal of the project was to try out Socket.IO and practice using some Typescript with React. To try out this app, make sure to join the same room on two seperate tabs or on seperate computers.",
     image: "/images/4.png",
     tags: ["Typescript", "CSS", "ReactJS", "Socket.IO"],
-    source: "https://chat-app-zayn.netlify.app",
+    source: "https://main--chat-app-zayn.netlify.app/",
     visit: "https://github.com/ZaynMuhammad/chat-app-client",
     id: 3,
   },
